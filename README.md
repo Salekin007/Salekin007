@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sirajus Salekin</h1>
 <br>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
+<h3 align="center">An enthusiastic Software Quality Assurance Engineer from Bangladesh</h3>
 
 <br>
 
 ## :writing_hand: About me
 
-- 🌱 I’m currently learning **Java, Spring Boot, MSSQL etc.**
+- 🌱 I’m currently learning **Cypress, Postman, Javascript, MSSQL etc.**
 
 - 📫 How to reach me **salekinsirajus0@gmail.com**
 
