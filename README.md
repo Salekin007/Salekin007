@@ -6,7 +6,7 @@
 
 ## :writing_hand: About me
 
-- 🌱 I’m currently learning **Cypress, Postman, Javascript, MSSQL etc.**
+- 🌱 I’m currently learning **Playwright Python, Postman, MSSQL etc.**
 
 - 📫 How to reach me **salekinsirajus0@gmail.com**
 
